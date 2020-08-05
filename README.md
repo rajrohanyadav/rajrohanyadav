@@ -3,8 +3,8 @@
 ## I'm a student, currently studying AI
 - Currently working on making RNN model to predict baby names
 - I love to learn anything to everything
-- I want to contribute more to Open Source projects
-- I like to design UI/UX for website, apps etc.
+- I like to design UI/UX for website, apps etc. in my free time
+- 2020 goal: want to improve my github stats below
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true" />
+<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true" />
 
 
 [website]: https://rohan-yadav.web.app
