@@ -1,7 +1,5 @@
 # rajrohanyadav
 
----
-
 ## Hi there, I'm Rohan [website]
 
 ### I'm a student, currently studying AI
@@ -18,8 +16,6 @@
 [<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
----
 
 ### Languages
 
