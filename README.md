@@ -1,5 +1,3 @@
-# rajrohanyadav
-
 ## Hi there, I'm Rohan [website]
 
 ### I'm a student, currently studying AI
