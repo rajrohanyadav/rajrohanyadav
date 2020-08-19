@@ -1,4 +1,7 @@
-## Hi there, I'm Rohan [website]
+## Hi there, I'm Rohan
+
+[![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav24?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav&screen_name=rajrohanyadav)
 
 ### I'm a student, currently studying AI
 
