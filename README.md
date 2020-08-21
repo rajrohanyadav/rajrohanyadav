@@ -1,7 +1,7 @@
 ## Hi there, I'm Rohan
 
 [![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav24?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav24&screen_name=rajrohanyadav24)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav&screen_name=rajrohanyadav)
 
 ### I'm a student, currently studying AI
 
@@ -47,5 +47,5 @@
 <img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true" />
 
 [website]: https://rohan-yadav.web.app
-[twitter]: https://twitter.com/rajrohanyadav24
-[linkedin]: https://www.linkedin.com/in/rohan-yadav-56891810a/
+[twitter]: https://twitter.com/rajrohanyadav
+[linkedin]: https://www.linkedin.com/in/rajrohanyadav
