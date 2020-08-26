@@ -5,7 +5,7 @@
 
 ### I'm a student, currently studying AI
 
-- Currently working on making RNN model to predict baby names
+- Currently working on making various CNN & RNN models for my portfolio
 - I love to learn anything to everything
 - I like to design UI/UX for website, apps etc. in my free time
 - 2020 goal: want to improve my github stats below
