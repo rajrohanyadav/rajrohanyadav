@@ -10,11 +10,12 @@
 - I like to design UI/UX for website, apps etc. in my free time
 - 2020 goal: want to improve my github stats below
 
-### Connect with me
-
-[<img align="left" alt="rohan-yadav.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Socials
+[<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="Rohan Yadav | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rohan Yadav | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 
 <br />
 
@@ -49,3 +50,5 @@
 [website]: https://rohan-yadav.web.app
 [twitter]: https://twitter.com/rajrohanyadav
 [linkedin]: https://www.linkedin.com/in/rajrohanyadav
+[dev.to]: https://www.dev.to/rajrohanyadav
+[discord]: https://discord.gg/486VmPz
