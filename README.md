@@ -47,8 +47,8 @@
 
 ### Stats
 
-<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true" />
-<img align="left" alt="rajrohanyadav's language card" src="https://github-readme-stats.rajrohanyadav.vercel.app/api/top-langs/?username=rajrohanyadav&layout=compact&hide_border=true" />
+<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true" />
+<img alt="rajrohanyadav's language card" src="https://github-readme-stats.rajrohanyadav.vercel.app/api/top-langs/?username=rajrohanyadav&layout=compact" />
 
 [website]: https://rohan-yadav.web.app
 [twitter]: https://twitter.com/rajrohanyadav
