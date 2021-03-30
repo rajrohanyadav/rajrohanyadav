@@ -5,10 +5,12 @@
 
 ### I'm a student, currently studying AI
 
-- Currently working on making various CNN & RNN models for my portfolio
-- I love to learn anything to everything
-- I like to design UI/UX for website, apps etc. in my free time
-- 2020 goal: want to improve my github stats below
+- Currently learning DevOps, Cloud, Test Automation at my new internship
+- I like learning anything that fascinates me
+- I like designing UI/UX for websites & apps in my free time
+- 2021 goals 
+  - Want to work on more open-source projects
+  - Want to port my website from Angular to React :)
 
 ### Socials
 [<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev.to]
