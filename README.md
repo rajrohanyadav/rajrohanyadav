@@ -9,8 +9,8 @@
 - I like learning anything that fascinates me
 - I like designing UI/UX for websites & apps in my free time
 - 2021 goals 
-  - Want to work on more open-source projects
-  - Want to port my website from Angular to React :)
+  - Work on more open-source projects
+  - Write more blogs 
 
 ### Socials
 [<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev.to]
