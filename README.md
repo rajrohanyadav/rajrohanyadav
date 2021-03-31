@@ -51,7 +51,7 @@
 
 ### Stats
 
-<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="rajrohanyadav's Github Stats" src="https://github-readme-stats.rajrohanyadav.vercel.app/api?username=rajrohanyadav&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 [website]: https://rohan-yadav.web.app
 [twitter]: https://twitter.com/rajrohanyadav
