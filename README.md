@@ -13,7 +13,7 @@
   - Write more blogs 
 
 ### Socials
-[<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev.to]
+[<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/devdotto.svg" />][dev.to]
 [<img align="left" alt="Rohan Yadav | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
