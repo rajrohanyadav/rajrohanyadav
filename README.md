@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav&screen_name=rajrohanyadav)
 
-### I'm a student, currently studying AI
+### I'm a Cloud Engineer, currently working with Teradata
 
-- Currently learning DevOps, Cloud, Test Automation at my new internship
+- Working on DevOps Automation using ansible, jenkins
+- Doing full stack web development
 - I like learning anything that fascinates me
 - I like designing UI/UX for websites & apps in my free time
 - 2021 goals 
