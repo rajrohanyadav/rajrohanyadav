@@ -34,6 +34,7 @@
 ### Tools and Frameworks
 
 <img src="https://img.shields.io/badge/react%20-%23013243.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoLang%20-%23000.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/next.js%20-%23013243.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
