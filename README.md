@@ -5,13 +5,14 @@
 
 ### I'm a Cloud Engineer, currently working with Teradata
 
-- Working on DevOps Automation using ansible, jenkins
-- Doing full stack web development
-- I like learning anything that fascinates me
+- Currently working with Go, Python and TypeScript
+- Solving problems related to Authentication and Authorization for a wide range of Teradata products
+- Designing services which will Authenticate millions of users daily in the cloud.
+- Doing full stack development
 - I like designing UI/UX for websites & apps in my free time
-- 2021 goals 
-  - Work on more open-source projects
-  - Write more blogs 
+- 2022 goals
+  - Write more blogs
+  - Learn Learn Learn !!!
 
 ### Socials
 [<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/devdotto.svg" />][dev.to]
