@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav&screen_name=rajrohanyadav)
 
-### I'm a Cloud Engineer, currently working with Teradata
+### Working as Full Stack Engineer with Teradata
 
 - Currently working with Go, Python and TypeScript
 - Solving problems related to Authentication and Authorization for a wide range of Teradata products
