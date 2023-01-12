@@ -7,11 +7,11 @@
 
 - Currently working with Go, Python and TypeScript
 - Solving problems related to Authentication and Authorization for a wide range of Teradata products
-- Designing services which will Authenticate millions of users daily in the cloud.
-- Doing full stack development
+- Designing services that Authenticate millions of users daily in cloud
 - I like designing UI/UX for websites & apps in my free time
-- 2022 goals
+- 2023 goals
   - Write more blogs
+  - Complete my side projects (everyone knows side projects never get completed :))
   - Learn Learn Learn !!!
 
 ### Socials
