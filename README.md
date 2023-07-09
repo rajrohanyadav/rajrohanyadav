@@ -1,23 +1,17 @@
 ## Hi there, I'm Rohan
 
 [![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rajrohanyadav?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frajrohanyadav&screen_name=rajrohanyadav)
 
 ### Working as Full Stack Engineer with Teradata
 
-- Currently working with Go, Python and TypeScript
-- Solving problems related to Authentication and Authorization for a wide range of Teradata products
-- Designing services that Authenticate millions of users daily in cloud
+- Currently working with Go, Python, and TypeScript
+- Building scalable, robust, real-time Identity and Authorization solutions for Teradata
+- Designing services that Authenticate millions of users daily in the cloud
 - I like designing UI/UX for websites & apps in my free time
-- 2023 goals
-  - Write more blogs
-  - Complete my side projects (everyone knows side projects never get completed :))
-  - Learn Learn Learn !!!
 
 ### Socials
 [<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/devdotto.svg" />][dev.to]
 [<img align="left" alt="Rohan Yadav | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Yadav | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
 
