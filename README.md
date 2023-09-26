@@ -1,10 +1,9 @@
 ## Hi there, I'm Rohan
 
-[![Website](https://img.shields.io/website?label=rohan-yadav.web.app&style=for-the-badge&url=https%3A%2F%2Frohan-yadav.web.app)](https://rohan-yadav.web.app)
-
-### Working as Full Stack Engineer with Teradata
-
-- Currently working with Go, Python, and TypeScript
+### Senior Engineer @ Teradata
+#### Summary
+Senior Engineer with over 3 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+- Currently working with Go, Python, Java, and TypeScript
 - Building scalable, robust, real-time Identity and Authorization solutions for Teradata
 - Designing services that Authenticate millions of users daily in the cloud
 - I like designing UI/UX for websites & apps in my free time
@@ -14,15 +13,16 @@
 [<img align="left" alt="Rohan Yadav | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan Yadav | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
+[<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
 
 <br />
 
 ### Languages
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GoLang%20-%23000.svg?&style=for-the-badge&logo=go&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoLang%20-%23000.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
