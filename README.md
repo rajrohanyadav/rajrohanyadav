@@ -9,13 +9,10 @@ Senior Engineer with over 3 years of experience in software development. Accompl
 - I like designing UI/UX for websites & apps in my free time
 
 ### Socials
-[<img align="left" alt="Rohan Yadav | Dev.to" width="22" src="https://simpleicons.org/icons/devdotto.svg" />][dev.to]
-[<img align="left" alt="Rohan Yadav | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohan Yadav | Discord" width="22px" src="https://simpleicons.org/icons/discord.svg" />][discord]
-[<img align="left" alt="Rohan Yadav | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][Twitter]
-<!-- [<img align="left" alt="Rohan Yadav | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-
-<br />
+[<img src="https://img.shields.io/badge/Rohan%20Yadav-0A0A0A.svg?&logo=devdotto&logoColor=white"/>][dev.to]
+[<img src="https://img.shields.io/badge/rajrohanyadav-0A66C2.svg?&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/Rohan%20Yadav-5865F2.svg?&logo=Discord&logoColor=white"/>][discord]
+[<img src="https://img.shields.io/badge/rajrohanyadav-000000.svg?&logo=x&logoColor=white"/>][Twitter]
 
 ### Languages
 
