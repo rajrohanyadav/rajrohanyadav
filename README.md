@@ -52,6 +52,7 @@ Senior Engineer with over 3 years of experience in software development. Accompl
 <img src="https://img.shields.io/badge/jenkins%20-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/tauri%20-24C8D8.svg?&style=for-the-badge&logo=tauri&logoColor=white" />
 <img src="https://img.shields.io/badge/okta%20-007DC1.svg?&style=for-the-badge&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter%20-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/jira%20-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/confluence%20-172B4D.svg?&style=for-the-badge&logo=confluence&logoColor=white" />
