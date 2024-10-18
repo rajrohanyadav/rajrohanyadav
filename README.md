@@ -1,11 +1,11 @@
 ## Hi there, I'm Rohan
 
-### Senior Engineer @ Teradata
+### Software Engineer @ New Relic
 #### Summary
-Senior Engineer with over 3 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+Software Engineer with over 3 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
 - Currently working with Go, Python, Java, and TypeScript
-- Building scalable, robust, real-time Identity and Authorization solutions for Teradata
-- Designing services that Authenticate millions of users daily in the cloud
+- Building scalable, robust, real-time solutions for New Relic
+- Improving Observability for all my fellow developers
 - I like designing UI/UX for websites & apps in my free time
 
 ### Socials
