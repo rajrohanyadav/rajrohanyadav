@@ -3,7 +3,7 @@
 ### Software Engineer @ New Relic
 #### Summary
 Software Engineer with over 4 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
-- Currently working with Go, Python, Java, and TypeScript
+- Currently working with Go, Rust, Python, and TypeScript
 - Building scalable, robust, real-time solutions for New Relic
 - Improving Observability for all my fellow developers
 - I like designing UI/UX for websites & apps in my free time
