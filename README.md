@@ -2,11 +2,13 @@
 
 ### Software Engineer @ New Relic
 #### Summary
-Software Engineer with over 4 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+Software Engineer with over 5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
+
+^ is the ChatGPT output. Just an engineer who loves solving challenging problems :)
 - Currently working with Go, Rust, Python, and TypeScript
 - Building scalable, robust, real-time solutions for New Relic
 - Improving Observability for all my fellow developers
-- I like designing UI/UX for websites & apps in my free time
+- I love running, badminton and cooking
 
 ### Socials
 [<img src="https://img.shields.io/badge/Rohan%20Yadav-0A0A0A.svg?&logo=devdotto&logoColor=white"/>][dev.to]
