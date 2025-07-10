@@ -4,7 +4,8 @@
 #### Summary
 Software Engineer with over 5 years of experience in software development. Accomplished in modern software design and development processes. Demonstrated expertise in building cloud-based solutions and ensuring their seamless integration with existing systems. A quick learner with excellent problem-solving skills, capable of adapting to new technologies and frameworks. Strong communication skills, fostering effective collaboration with cross-functional teams.
 
-^ is the ChatGPT output. Just an engineer who loves solving challenging problems :)
+^ is ChatGPT generated. Just an engineer who loves solving challenging problems and make life a bit easier for all of us :)
+
 - Currently working with Go, Rust, Python, and TypeScript
 - Building scalable, robust, real-time solutions for New Relic
 - Improving Observability for all my fellow developers
